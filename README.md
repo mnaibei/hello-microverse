@@ -5,7 +5,7 @@
   <img src="https://avatars.githubusercontent.com/u/69506217?v=4" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Miroverse</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
